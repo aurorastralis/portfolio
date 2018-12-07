@@ -2,3 +2,12 @@
   margin-top:70px;
   height:80vh;
 }
+
+.display-4 {
+  font-family: Gudea;
+  font-weight: bold;
+}
+
+.display-4:first-of-type {
+  font-weight: normal;
+}
